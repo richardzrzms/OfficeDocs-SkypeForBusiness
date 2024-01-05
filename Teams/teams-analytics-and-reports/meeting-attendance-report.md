@@ -74,6 +74,7 @@ As an admin, you control whether organizers can view and download the attendance
 
 > [!NOTE]
 > As an admin, you can’t view the attendance and engagement report for meetings and events that you didn't organize. However, you can view attendees' details for a given meeting, webinar, or town hall within 24 hours of that meeting or event. In the Teams admin center, go to **Users** > **Manage users**. Choose the display name for the meeting organizer. Select the **Meetings & calls** tab, and then choose the appropriate meeting ID or call ID. Then, select **Participant details**.
+> The policy values take effect for users within your tenant only. Guests' policy values can not be configured
 
 ## Manage attendance report policies with PowerShell
 
