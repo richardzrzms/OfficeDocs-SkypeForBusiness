@@ -78,7 +78,7 @@ For information on how your meeting organizers can set up human-generated captio
 ### Live translated captions
 
 > [!NOTE]
-> This feature is temporarily available in public preview. After the preview, the meeting organizer must have a Teams Premium license for attendees to use live translated captions.
+> This feature is temporarily available in public preview. After the preview, the meeting organizer or call initiator must have a Teams Premium license for attendees to use live translated captions.
 
 By default, live captions are displayed in the language that’s spoken during a meeting, webinar, or town hall. Live translated captions allow your users to see captions translated into the language they’re most comfortable with.
 
